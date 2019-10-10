@@ -1,0 +1,384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.800", 
+   "id": "f000002", 
+   "language": "eng", 
+   "lines": [
+    "Our clients was uh one of the largest hospital systems in the U.S."
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "f000003", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "f000004", 
+   "language": "eng", 
+   "lines": [
+    "They wanted a new way to do their tumor boards"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "f000005", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "17.160", 
+   "id": "f000006", 
+   "language": "eng", 
+   "lines": [
+    "Tumor boards are uh best practice in the hospital industry"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "children": [], 
+   "end": "17.200", 
+   "id": "f000007", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "children": [], 
+   "end": "22.600", 
+   "id": "f000008", 
+   "language": "eng", 
+   "lines": [
+    "That when you have cancer patients that you need to um have a multi disciplinary approach"
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "children": [], 
+   "end": "22.600", 
+   "id": "f000009", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "children": [], 
+   "end": "30.800", 
+   "id": "f000010", 
+   "language": "eng", 
+   "lines": [
+    "To how you're going to treat that patient and we use the Microsoft Technologies Teams uh SharePoint OneDrive PowerBI"
+   ]
+  }, 
+  {
+   "begin": "30.800", 
+   "children": [], 
+   "end": "30.960", 
+   "id": "f000011", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "30.960", 
+   "children": [], 
+   "end": "37.800", 
+   "id": "f000012", 
+   "language": "eng", 
+   "lines": [
+    "Bring together a virtual way for them to collaborate so the doctors and the nurses can do it at their time of choosing"
+   ]
+  }, 
+  {
+   "begin": "37.800", 
+   "children": [], 
+   "end": "37.800", 
+   "id": "f000013", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "37.800", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "f000014", 
+   "language": "eng", 
+   "lines": [
+    "on the devices they choose and collaborate with the other doctors on what is the best care for that patient"
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "f000015", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "50.640", 
+   "id": "f000016", 
+   "language": "eng", 
+   "lines": [
+    "the hospital system we work with is able to run three times as many patients through this valuable tumor board process"
+   ]
+  }, 
+  {
+   "begin": "50.640", 
+   "children": [], 
+   "end": "50.640", 
+   "id": "f000017", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "50.640", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "f000018", 
+   "language": "eng", 
+   "lines": [
+    "As they ever could before and they're getting greater participation"
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "f000019", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "f000020", 
+   "language": "eng", 
+   "lines": [
+    "By the oncologist,"
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "f000021", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "55.400", 
+   "id": "f000022", 
+   "language": "eng", 
+   "lines": [
+    "The doctors,"
+   ]
+  }, 
+  {
+   "begin": "55.400", 
+   "children": [], 
+   "end": "55.400", 
+   "id": "f000023", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "55.400", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "f000024", 
+   "language": "eng", 
+   "lines": [
+    "The surgeons,"
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "f000025", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "57.160", 
+   "id": "f000026", 
+   "language": "eng", 
+   "lines": [
+    "The Radiologist"
+   ]
+  }, 
+  {
+   "begin": "57.160", 
+   "children": [], 
+   "end": "57.160", 
+   "id": "f000027", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "57.160", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "f000028", 
+   "language": "eng", 
+   "lines": [
+    "Than they ever had in the past"
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "f000029", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "f000030", 
+   "language": "eng", 
+   "lines": [
+    "They are extending this from the initial pilots to other types of cancer"
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "f000031", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "67.000", 
+   "id": "f000032", 
+   "language": "eng", 
+   "lines": [
+    "Within the hospital and it's just really rewarding for me and the team that worked on this"
+   ]
+  }, 
+  {
+   "begin": "67.000", 
+   "children": [], 
+   "end": "67.040", 
+   "id": "f000033", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "67.040", 
+   "children": [], 
+   "end": "70.520", 
+   "id": "f000034", 
+   "language": "eng", 
+   "lines": [
+    "It's really exciting to be making a real human impact here"
+   ]
+  }, 
+  {
+   "begin": "70.520", 
+   "children": [], 
+   "end": "70.520", 
+   "id": "f000035", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "70.520", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "f000036", 
+   "language": "eng", 
+   "lines": [
+    "Helping to save lives and"
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "f000037", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "82.200", 
+   "id": "f000038", 
+   "language": "eng", 
+   "lines": [
+    "Prolong the lives of cancer patients"
+   ]
+  }
+ ]
+}

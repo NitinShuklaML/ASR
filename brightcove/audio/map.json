@@ -1,0 +1,2164 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.200", 
+   "id": "f000001", 
+   "language": "eng", 
+   "lines": [
+    "utterance-id1"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "children": [], 
+   "end": "5.920", 
+   "id": "f000002", 
+   "language": "eng", 
+   "lines": [
+    "[noise]"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "children": [], 
+   "end": "6.080", 
+   "id": "f000003", 
+   "language": "eng", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "children": [], 
+   "end": "6.880", 
+   "id": "f000004", 
+   "language": "eng", 
+   "lines": [
+    "clients"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "f000005", 
+   "language": "eng", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "8.000", 
+   "id": "f000006", 
+   "language": "eng", 
+   "lines": [
+    "uh"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "f000007", 
+   "language": "eng", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "8.880", 
+   "id": "f000008", 
+   "language": "eng", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "children": [], 
+   "end": "9.480", 
+   "id": "f000009", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "children": [], 
+   "end": "10.080", 
+   "id": "f000010", 
+   "language": "eng", 
+   "lines": [
+    "largest"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "children": [], 
+   "end": "10.960", 
+   "id": "f000011", 
+   "language": "eng", 
+   "lines": [
+    "hospital"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "children": [], 
+   "end": "11.720", 
+   "id": "f000012", 
+   "language": "eng", 
+   "lines": [
+    "systems"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "children": [], 
+   "end": "12.000", 
+   "id": "f000013", 
+   "language": "eng", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "children": [], 
+   "end": "12.200", 
+   "id": "f000014", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "f000015", 
+   "language": "eng", 
+   "lines": [
+    "u._s."
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "f000016", 
+   "language": "eng", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "13.800", 
+   "id": "f000017", 
+   "language": "eng", 
+   "lines": [
+    "wanted"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "children": [], 
+   "end": "13.960", 
+   "id": "f000018", 
+   "language": "eng", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "children": [], 
+   "end": "14.760", 
+   "id": "f000019", 
+   "language": "eng", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "children": [], 
+   "end": "15.760", 
+   "id": "f000020", 
+   "language": "eng", 
+   "lines": [
+    "way"
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "children": [], 
+   "end": "16.280", 
+   "id": "f000021", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "f000022", 
+   "language": "eng", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "17.680", 
+   "id": "f000023", 
+   "language": "eng", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "children": [], 
+   "end": "18.200", 
+   "id": "f000024", 
+   "language": "eng", 
+   "lines": [
+    "tumor"
+   ]
+  }, 
+  {
+   "begin": "18.200", 
+   "children": [], 
+   "end": "18.680", 
+   "id": "f000025", 
+   "language": "eng", 
+   "lines": [
+    "boards"
+   ]
+  }, 
+  {
+   "begin": "18.680", 
+   "children": [], 
+   "end": "19.880", 
+   "id": "f000026", 
+   "language": "eng", 
+   "lines": [
+    "tumor"
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "f000027", 
+   "language": "eng", 
+   "lines": [
+    "boards"
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "21.080", 
+   "id": "f000028", 
+   "language": "eng", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "21.080", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "f000029", 
+   "language": "eng", 
+   "lines": [
+    "uh"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "22.080", 
+   "id": "f000030", 
+   "language": "eng", 
+   "lines": [
+    "best"
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "children": [], 
+   "end": "23.120", 
+   "id": "f000031", 
+   "language": "eng", 
+   "lines": [
+    "practice"
+   ]
+  }, 
+  {
+   "begin": "23.120", 
+   "children": [], 
+   "end": "23.960", 
+   "id": "f000032", 
+   "language": "eng", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "23.960", 
+   "children": [], 
+   "end": "24.240", 
+   "id": "f000033", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "children": [], 
+   "end": "25.200", 
+   "id": "f000034", 
+   "language": "eng", 
+   "lines": [
+    "hospital"
+   ]
+  }, 
+  {
+   "begin": "25.200", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "f000035", 
+   "language": "eng", 
+   "lines": [
+    "industry"
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "f000036", 
+   "language": "eng", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "27.720", 
+   "id": "f000037", 
+   "language": "eng", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "f000038", 
+   "language": "eng", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "f000039", 
+   "language": "eng", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "30.040", 
+   "id": "f000040", 
+   "language": "eng", 
+   "lines": [
+    "cancer"
+   ]
+  }, 
+  {
+   "begin": "30.040", 
+   "children": [], 
+   "end": "31.040", 
+   "id": "f000041", 
+   "language": "eng", 
+   "lines": [
+    "patients"
+   ]
+  }, 
+  {
+   "begin": "31.040", 
+   "children": [], 
+   "end": "32.080", 
+   "id": "f000042", 
+   "language": "eng", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "32.080", 
+   "children": [], 
+   "end": "32.760", 
+   "id": "f000043", 
+   "language": "eng", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "32.760", 
+   "children": [], 
+   "end": "33.400", 
+   "id": "f000044", 
+   "language": "eng", 
+   "lines": [
+    "need"
+   ]
+  }, 
+  {
+   "begin": "33.400", 
+   "children": [], 
+   "end": "33.960", 
+   "id": "f000045", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "33.960", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "f000046", 
+   "language": "eng", 
+   "lines": [
+    "um"
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "34.720", 
+   "id": "f000047", 
+   "language": "eng", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "34.720", 
+   "children": [], 
+   "end": "35.160", 
+   "id": "f000048", 
+   "language": "eng", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "35.160", 
+   "children": [], 
+   "end": "35.520", 
+   "id": "f000049", 
+   "language": "eng", 
+   "lines": [
+    "multi"
+   ]
+  }, 
+  {
+   "begin": "35.520", 
+   "children": [], 
+   "end": "36.040", 
+   "id": "f000050", 
+   "language": "eng", 
+   "lines": [
+    "disciplinary"
+   ]
+  }, 
+  {
+   "begin": "36.040", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "f000051", 
+   "language": "eng", 
+   "lines": [
+    "approach"
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "37.400", 
+   "id": "f000052", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "37.400", 
+   "children": [], 
+   "end": "38.000", 
+   "id": "f000053", 
+   "language": "eng", 
+   "lines": [
+    "how"
+   ]
+  }, 
+  {
+   "begin": "38.000", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "f000054", 
+   "language": "eng", 
+   "lines": [
+    "you're"
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "38.640", 
+   "id": "f000055", 
+   "language": "eng", 
+   "lines": [
+    "going"
+   ]
+  }, 
+  {
+   "begin": "38.640", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "f000056", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "40.360", 
+   "id": "f000057", 
+   "language": "eng", 
+   "lines": [
+    "treat"
+   ]
+  }, 
+  {
+   "begin": "40.360", 
+   "children": [], 
+   "end": "40.720", 
+   "id": "f000058", 
+   "language": "eng", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "40.720", 
+   "children": [], 
+   "end": "41.280", 
+   "id": "f000059", 
+   "language": "eng", 
+   "lines": [
+    "patient"
+   ]
+  }, 
+  {
+   "begin": "41.280", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "f000060", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "42.280", 
+   "id": "f000061", 
+   "language": "eng", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "42.280", 
+   "children": [], 
+   "end": "42.880", 
+   "id": "f000062", 
+   "language": "eng", 
+   "lines": [
+    "use"
+   ]
+  }, 
+  {
+   "begin": "42.880", 
+   "children": [], 
+   "end": "43.400", 
+   "id": "f000063", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "43.400", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "f000064", 
+   "language": "eng", 
+   "lines": [
+    "microsoft"
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "46.320", 
+   "id": "f000065", 
+   "language": "eng", 
+   "lines": [
+    "technologies"
+   ]
+  }, 
+  {
+   "begin": "46.320", 
+   "children": [], 
+   "end": "47.120", 
+   "id": "f000066", 
+   "language": "eng", 
+   "lines": [
+    "teams"
+   ]
+  }, 
+  {
+   "begin": "47.120", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "f000067", 
+   "language": "eng", 
+   "lines": [
+    "uh"
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "f000068", 
+   "language": "eng", 
+   "lines": [
+    "share"
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "49.440", 
+   "id": "f000069", 
+   "language": "eng", 
+   "lines": [
+    "point"
+   ]
+  }, 
+  {
+   "begin": "49.440", 
+   "children": [], 
+   "end": "49.880", 
+   "id": "f000070", 
+   "language": "eng", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "49.880", 
+   "children": [], 
+   "end": "50.400", 
+   "id": "f000071", 
+   "language": "eng", 
+   "lines": [
+    "drive"
+   ]
+  }, 
+  {
+   "begin": "50.400", 
+   "children": [], 
+   "end": "51.040", 
+   "id": "f000072", 
+   "language": "eng", 
+   "lines": [
+    "power"
+   ]
+  }, 
+  {
+   "begin": "51.040", 
+   "children": [], 
+   "end": "51.240", 
+   "id": "f000073", 
+   "language": "eng", 
+   "lines": [
+    "b."
+   ]
+  }, 
+  {
+   "begin": "51.240", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "f000074", 
+   "language": "eng", 
+   "lines": [
+    "i."
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "f000075", 
+   "language": "eng", 
+   "lines": [
+    "spring"
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "53.600", 
+   "id": "f000076", 
+   "language": "eng", 
+   "lines": [
+    "together"
+   ]
+  }, 
+  {
+   "begin": "53.600", 
+   "children": [], 
+   "end": "54.160", 
+   "id": "f000077", 
+   "language": "eng", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "54.160", 
+   "children": [], 
+   "end": "54.760", 
+   "id": "f000078", 
+   "language": "eng", 
+   "lines": [
+    "virtual"
+   ]
+  }, 
+  {
+   "begin": "54.760", 
+   "children": [], 
+   "end": "55.320", 
+   "id": "f000079", 
+   "language": "eng", 
+   "lines": [
+    "way"
+   ]
+  }, 
+  {
+   "begin": "55.320", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "f000080", 
+   "language": "eng", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "56.440", 
+   "id": "f000081", 
+   "language": "eng", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "56.440", 
+   "children": [], 
+   "end": "57.040", 
+   "id": "f000082", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "57.040", 
+   "children": [], 
+   "end": "57.960", 
+   "id": "f000083", 
+   "language": "eng", 
+   "lines": [
+    "collaborate"
+   ]
+  }, 
+  {
+   "begin": "57.960", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "f000084", 
+   "language": "eng", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "59.400", 
+   "id": "f000085", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "59.400", 
+   "children": [], 
+   "end": "60.440", 
+   "id": "f000086", 
+   "language": "eng", 
+   "lines": [
+    "doctors"
+   ]
+  }, 
+  {
+   "begin": "60.440", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "f000087", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "61.800", 
+   "id": "f000088", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "61.800", 
+   "children": [], 
+   "end": "62.400", 
+   "id": "f000089", 
+   "language": "eng", 
+   "lines": [
+    "nurses"
+   ]
+  }, 
+  {
+   "begin": "62.400", 
+   "children": [], 
+   "end": "63.520", 
+   "id": "f000090", 
+   "language": "eng", 
+   "lines": [
+    "[noise]"
+   ]
+  }, 
+  {
+   "begin": "63.520", 
+   "children": [], 
+   "end": "64.160", 
+   "id": "f000091", 
+   "language": "eng", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "64.160", 
+   "children": [], 
+   "end": "64.840", 
+   "id": "f000092", 
+   "language": "eng", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "64.840", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "f000093", 
+   "language": "eng", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "66.000", 
+   "id": "f000094", 
+   "language": "eng", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "66.000", 
+   "children": [], 
+   "end": "66.640", 
+   "id": "f000095", 
+   "language": "eng", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "66.640", 
+   "children": [], 
+   "end": "67.360", 
+   "id": "f000096", 
+   "language": "eng", 
+   "lines": [
+    "time"
+   ]
+  }, 
+  {
+   "begin": "67.360", 
+   "children": [], 
+   "end": "68.000", 
+   "id": "f000097", 
+   "language": "eng", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "68.000", 
+   "children": [], 
+   "end": "68.720", 
+   "id": "f000098", 
+   "language": "eng", 
+   "lines": [
+    "choosing"
+   ]
+  }, 
+  {
+   "begin": "68.720", 
+   "children": [], 
+   "end": "69.280", 
+   "id": "f000099", 
+   "language": "eng", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "69.280", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "f000100", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "70.480", 
+   "id": "f000101", 
+   "language": "eng", 
+   "lines": [
+    "devices"
+   ]
+  }, 
+  {
+   "begin": "70.480", 
+   "children": [], 
+   "end": "71.080", 
+   "id": "f000102", 
+   "language": "eng", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "71.080", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "f000103", 
+   "language": "eng", 
+   "lines": [
+    "choose"
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "72.520", 
+   "id": "f000104", 
+   "language": "eng", 
+   "lines": [
+    "cooperate"
+   ]
+  }, 
+  {
+   "begin": "72.520", 
+   "children": [], 
+   "end": "73.280", 
+   "id": "f000105", 
+   "language": "eng", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "73.280", 
+   "children": [], 
+   "end": "73.840", 
+   "id": "f000106", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "73.840", 
+   "children": [], 
+   "end": "74.440", 
+   "id": "f000107", 
+   "language": "eng", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "74.440", 
+   "children": [], 
+   "end": "75.800", 
+   "id": "f000108", 
+   "language": "eng", 
+   "lines": [
+    "doctors"
+   ]
+  }, 
+  {
+   "begin": "75.800", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "f000109", 
+   "language": "eng", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "f000110", 
+   "language": "eng", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "77.520", 
+   "id": "f000111", 
+   "language": "eng", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "77.520", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "f000112", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "f000113", 
+   "language": "eng", 
+   "lines": [
+    "best"
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "79.360", 
+   "id": "f000114", 
+   "language": "eng", 
+   "lines": [
+    "care"
+   ]
+  }, 
+  {
+   "begin": "79.360", 
+   "children": [], 
+   "end": "79.760", 
+   "id": "f000115", 
+   "language": "eng", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "79.760", 
+   "children": [], 
+   "end": "80.240", 
+   "id": "f000116", 
+   "language": "eng", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "80.240", 
+   "children": [], 
+   "end": "80.840", 
+   "id": "f000117", 
+   "language": "eng", 
+   "lines": [
+    "um"
+   ]
+  }, 
+  {
+   "begin": "80.840", 
+   "children": [], 
+   "end": "81.440", 
+   "id": "f000118", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "81.440", 
+   "children": [], 
+   "end": "82.720", 
+   "id": "f000119", 
+   "language": "eng", 
+   "lines": [
+    "hospital"
+   ]
+  }, 
+  {
+   "begin": "82.720", 
+   "children": [], 
+   "end": "83.080", 
+   "id": "f000120", 
+   "language": "eng", 
+   "lines": [
+    "system"
+   ]
+  }, 
+  {
+   "begin": "83.080", 
+   "children": [], 
+   "end": "83.640", 
+   "id": "f000121", 
+   "language": "eng", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "83.640", 
+   "children": [], 
+   "end": "84.200", 
+   "id": "f000122", 
+   "language": "eng", 
+   "lines": [
+    "work"
+   ]
+  }, 
+  {
+   "begin": "84.200", 
+   "children": [], 
+   "end": "84.640", 
+   "id": "f000123", 
+   "language": "eng", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "84.640", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "f000124", 
+   "language": "eng", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "85.640", 
+   "id": "f000125", 
+   "language": "eng", 
+   "lines": [
+    "able"
+   ]
+  }, 
+  {
+   "begin": "85.640", 
+   "children": [], 
+   "end": "86.240", 
+   "id": "f000126", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "86.240", 
+   "children": [], 
+   "end": "86.600", 
+   "id": "f000127", 
+   "language": "eng", 
+   "lines": [
+    "run"
+   ]
+  }, 
+  {
+   "begin": "86.600", 
+   "children": [], 
+   "end": "87.000", 
+   "id": "f000128", 
+   "language": "eng", 
+   "lines": [
+    "three"
+   ]
+  }, 
+  {
+   "begin": "87.000", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "f000129", 
+   "language": "eng", 
+   "lines": [
+    "times"
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "88.480", 
+   "id": "f000130", 
+   "language": "eng", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "88.480", 
+   "children": [], 
+   "end": "89.280", 
+   "id": "f000131", 
+   "language": "eng", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "89.280", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "f000132", 
+   "language": "eng", 
+   "lines": [
+    "patients"
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "91.200", 
+   "id": "f000133", 
+   "language": "eng", 
+   "lines": [
+    "through"
+   ]
+  }, 
+  {
+   "begin": "91.200", 
+   "children": [], 
+   "end": "91.760", 
+   "id": "f000134", 
+   "language": "eng", 
+   "lines": [
+    "there's"
+   ]
+  }, 
+  {
+   "begin": "91.760", 
+   "children": [], 
+   "end": "92.480", 
+   "id": "f000135", 
+   "language": "eng", 
+   "lines": [
+    "valuable"
+   ]
+  }, 
+  {
+   "begin": "92.480", 
+   "children": [], 
+   "end": "92.600", 
+   "id": "f000136", 
+   "language": "eng", 
+   "lines": [
+    "tumor"
+   ]
+  }, 
+  {
+   "begin": "92.600", 
+   "children": [], 
+   "end": "93.000", 
+   "id": "f000137", 
+   "language": "eng", 
+   "lines": [
+    "board"
+   ]
+  }, 
+  {
+   "begin": "93.000", 
+   "children": [], 
+   "end": "93.280", 
+   "id": "f000138", 
+   "language": "eng", 
+   "lines": [
+    "process"
+   ]
+  }, 
+  {
+   "begin": "93.280", 
+   "children": [], 
+   "end": "93.760", 
+   "id": "f000139", 
+   "language": "eng", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "93.760", 
+   "children": [], 
+   "end": "94.240", 
+   "id": "f000140", 
+   "language": "eng", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "94.240", 
+   "children": [], 
+   "end": "94.640", 
+   "id": "f000141", 
+   "language": "eng", 
+   "lines": [
+    "ever"
+   ]
+  }, 
+  {
+   "begin": "94.640", 
+   "children": [], 
+   "end": "95.200", 
+   "id": "f000142", 
+   "language": "eng", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "95.200", 
+   "children": [], 
+   "end": "95.920", 
+   "id": "f000143", 
+   "language": "eng", 
+   "lines": [
+    "before"
+   ]
+  }, 
+  {
+   "begin": "95.920", 
+   "children": [], 
+   "end": "97.000", 
+   "id": "f000144", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "97.000", 
+   "children": [], 
+   "end": "97.360", 
+   "id": "f000145", 
+   "language": "eng", 
+   "lines": [
+    "they're"
+   ]
+  }, 
+  {
+   "begin": "97.360", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "f000146", 
+   "language": "eng", 
+   "lines": [
+    "getting"
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "f000147", 
+   "language": "eng", 
+   "lines": [
+    "greater"
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "101.120", 
+   "id": "f000148", 
+   "language": "eng", 
+   "lines": [
+    "participation"
+   ]
+  }, 
+  {
+   "begin": "101.120", 
+   "children": [], 
+   "end": "101.960", 
+   "id": "f000149", 
+   "language": "eng", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "101.960", 
+   "children": [], 
+   "end": "102.680", 
+   "id": "f000150", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "102.680", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "f000151", 
+   "language": "eng", 
+   "lines": [
+    "oncologist"
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "105.080", 
+   "id": "f000152", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "105.080", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "f000153", 
+   "language": "eng", 
+   "lines": [
+    "doctors"
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "106.280", 
+   "id": "f000154", 
+   "language": "eng", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "106.280", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "f000155", 
+   "language": "eng", 
+   "lines": [
+    "surgeons"
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "108.680", 
+   "id": "f000156", 
+   "language": "eng", 
+   "lines": [
+    "radiologist"
+   ]
+  }, 
+  {
+   "begin": "108.680", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "f000157", 
+   "language": "eng", 
+   "lines": [
+    "than"
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "f000158", 
+   "language": "eng", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "110.400", 
+   "id": "f000159", 
+   "language": "eng", 
+   "lines": [
+    "ever"
+   ]
+  }, 
+  {
+   "begin": "110.400", 
+   "children": [], 
+   "end": "111.560", 
+   "id": "f000160", 
+   "language": "eng", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "111.560", 
+   "children": [], 
+   "end": "111.800", 
+   "id": "f000161", 
+   "language": "eng", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "111.800", 
+   "children": [], 
+   "end": "112.320", 
+   "id": "f000162", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "112.320", 
+   "children": [], 
+   "end": "112.720", 
+   "id": "f000163", 
+   "language": "eng", 
+   "lines": [
+    "past"
+   ]
+  }, 
+  {
+   "begin": "112.720", 
+   "children": [], 
+   "end": "113.280", 
+   "id": "f000164", 
+   "language": "eng", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "113.280", 
+   "children": [], 
+   "end": "113.960", 
+   "id": "f000165", 
+   "language": "eng", 
+   "lines": [
+    "extending"
+   ]
+  }, 
+  {
+   "begin": "113.960", 
+   "children": [], 
+   "end": "114.520", 
+   "id": "f000166", 
+   "language": "eng", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "114.520", 
+   "children": [], 
+   "end": "115.360", 
+   "id": "f000167", 
+   "language": "eng", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "115.360", 
+   "children": [], 
+   "end": "115.920", 
+   "id": "f000168", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "115.920", 
+   "children": [], 
+   "end": "116.560", 
+   "id": "f000169", 
+   "language": "eng", 
+   "lines": [
+    "initial"
+   ]
+  }, 
+  {
+   "begin": "116.560", 
+   "children": [], 
+   "end": "117.280", 
+   "id": "f000170", 
+   "language": "eng", 
+   "lines": [
+    "pilots"
+   ]
+  }, 
+  {
+   "begin": "117.280", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "f000171", 
+   "language": "eng", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "f000172", 
+   "language": "eng", 
+   "lines": [
+    "types"
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "118.760", 
+   "id": "f000173", 
+   "language": "eng", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "118.760", 
+   "children": [], 
+   "end": "119.680", 
+   "id": "f000174", 
+   "language": "eng", 
+   "lines": [
+    "cancer"
+   ]
+  }, 
+  {
+   "begin": "119.680", 
+   "children": [], 
+   "end": "120.720", 
+   "id": "f000175", 
+   "language": "eng", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "120.720", 
+   "children": [], 
+   "end": "121.160", 
+   "id": "f000176", 
+   "language": "eng", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "121.160", 
+   "children": [], 
+   "end": "122.000", 
+   "id": "f000177", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "122.000", 
+   "children": [], 
+   "end": "123.240", 
+   "id": "f000178", 
+   "language": "eng", 
+   "lines": [
+    "hospital"
+   ]
+  }, 
+  {
+   "begin": "123.240", 
+   "children": [], 
+   "end": "123.880", 
+   "id": "f000179", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "123.880", 
+   "children": [], 
+   "end": "124.320", 
+   "id": "f000180", 
+   "language": "eng", 
+   "lines": [
+    "it's"
+   ]
+  }, 
+  {
+   "begin": "124.320", 
+   "children": [], 
+   "end": "124.640", 
+   "id": "f000181", 
+   "language": "eng", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "124.640", 
+   "children": [], 
+   "end": "125.040", 
+   "id": "f000182", 
+   "language": "eng", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "125.040", 
+   "children": [], 
+   "end": "125.560", 
+   "id": "f000183", 
+   "language": "eng", 
+   "lines": [
+    "rewarding"
+   ]
+  }, 
+  {
+   "begin": "125.560", 
+   "children": [], 
+   "end": "126.000", 
+   "id": "f000184", 
+   "language": "eng", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "126.000", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "f000185", 
+   "language": "eng", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "127.040", 
+   "id": "f000186", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "127.040", 
+   "children": [], 
+   "end": "127.360", 
+   "id": "f000187", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "127.360", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "f000188", 
+   "language": "eng", 
+   "lines": [
+    "team"
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "128.120", 
+   "id": "f000189", 
+   "language": "eng", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "128.120", 
+   "children": [], 
+   "end": "129.280", 
+   "id": "f000190", 
+   "language": "eng", 
+   "lines": [
+    "worked"
+   ]
+  }, 
+  {
+   "begin": "129.280", 
+   "children": [], 
+   "end": "129.640", 
+   "id": "f000191", 
+   "language": "eng", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "129.640", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "f000192", 
+   "language": "eng", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "130.960", 
+   "id": "f000193", 
+   "language": "eng", 
+   "lines": [
+    "it's"
+   ]
+  }, 
+  {
+   "begin": "130.960", 
+   "children": [], 
+   "end": "131.720", 
+   "id": "f000194", 
+   "language": "eng", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "131.720", 
+   "children": [], 
+   "end": "134.160", 
+   "id": "f000195", 
+   "language": "eng", 
+   "lines": [
+    "exciting"
+   ]
+  }, 
+  {
+   "begin": "134.160", 
+   "children": [], 
+   "end": "134.640", 
+   "id": "f000196", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "134.640", 
+   "children": [], 
+   "end": "134.880", 
+   "id": "f000197", 
+   "language": "eng", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "134.880", 
+   "children": [], 
+   "end": "135.560", 
+   "id": "f000198", 
+   "language": "eng", 
+   "lines": [
+    "making"
+   ]
+  }, 
+  {
+   "begin": "135.560", 
+   "children": [], 
+   "end": "135.920", 
+   "id": "f000199", 
+   "language": "eng", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "135.920", 
+   "children": [], 
+   "end": "136.160", 
+   "id": "f000200", 
+   "language": "eng", 
+   "lines": [
+    "real"
+   ]
+  }, 
+  {
+   "begin": "136.160", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "f000201", 
+   "language": "eng", 
+   "lines": [
+    "human"
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "136.920", 
+   "id": "f000202", 
+   "language": "eng", 
+   "lines": [
+    "impact"
+   ]
+  }, 
+  {
+   "begin": "136.920", 
+   "children": [], 
+   "end": "137.040", 
+   "id": "f000203", 
+   "language": "eng", 
+   "lines": [
+    "here"
+   ]
+  }, 
+  {
+   "begin": "137.040", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "f000204", 
+   "language": "eng", 
+   "lines": [
+    "helping"
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "137.720", 
+   "id": "f000205", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "137.720", 
+   "children": [], 
+   "end": "138.440", 
+   "id": "f000206", 
+   "language": "eng", 
+   "lines": [
+    "save"
+   ]
+  }, 
+  {
+   "begin": "138.440", 
+   "children": [], 
+   "end": "138.960", 
+   "id": "f000207", 
+   "language": "eng", 
+   "lines": [
+    "lives"
+   ]
+  }, 
+  {
+   "begin": "138.960", 
+   "children": [], 
+   "end": "139.840", 
+   "id": "f000208", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "139.840", 
+   "children": [], 
+   "end": "140.560", 
+   "id": "f000209", 
+   "language": "eng", 
+   "lines": [
+    "prolong"
+   ]
+  }, 
+  {
+   "begin": "140.560", 
+   "children": [], 
+   "end": "140.800", 
+   "id": "f000210", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "140.800", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "f000211", 
+   "language": "eng", 
+   "lines": [
+    "lives"
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "143.520", 
+   "id": "f000212", 
+   "language": "eng", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "143.520", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "f000213", 
+   "language": "eng", 
+   "lines": [
+    "cancer"
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "148.000", 
+   "id": "f000214", 
+   "language": "eng", 
+   "lines": [
+    "patients"
+   ]
+  }, 
+  {
+   "begin": "148.000", 
+   "children": [], 
+   "end": "148.600", 
+   "id": "f000215", 
+   "language": "eng", 
+   "lines": [
+    "[noise]"
+   ]
+  }, 
+  {
+   "begin": "148.600", 
+   "children": [], 
+   "end": "148.920", 
+   "id": "f000216", 
+   "language": "eng", 
+   "lines": [
+    ""
+   ]
+  }
+ ]
+}

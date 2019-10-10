@@ -1,0 +1,274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.680", 
+   "id": "f000001", 
+   "language": "eng", 
+   "lines": [
+    "alone innovation offers potential"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "children": [], 
+   "end": "7.240", 
+   "id": "f000002", 
+   "language": "eng", 
+   "lines": [
+    "but when the power of people"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "children": [], 
+   "end": "8.360", 
+   "id": "f000003", 
+   "language": "eng", 
+   "lines": [
+    "meets the Microsoft ecosystem"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "f000004", 
+   "language": "eng", 
+   "lines": [
+    "we can change everything"
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "13.320", 
+   "id": "f000005", 
+   "language": "eng", 
+   "lines": [
+    "at Avanade we redefine workplaces and re imagine the possibilities of life"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "children": [], 
+   "end": "18.600", 
+   "id": "f000006", 
+   "language": "eng", 
+   "lines": [
+    "when bold thinking meets passionate people we empower companies like henkel on their journey to a digital workplace"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "f000007", 
+   "language": "eng", 
+   "lines": [
+    "we help delta enable it's employees to work in new ways"
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "37.600", 
+   "id": "f000008", 
+   "language": "eng", 
+   "lines": [
+    "and we give educational organizations like open universities Australia the power to understand what the future looks like"
+   ]
+  }, 
+  {
+   "begin": "37.600", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "f000009", 
+   "language": "eng", 
+   "lines": [
+    "When new technologies meet optimistic people we can re imagine what's possible in our time bring it to life every day."
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "53.480", 
+   "id": "f000010", 
+   "language": "eng", 
+   "lines": [
+    "At Avanade we are creating a retail experience of the future with the power of knowledge is in the customer's hand"
+   ]
+  }, 
+  {
+   "begin": "53.480", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "f000011", 
+   "language": "eng", 
+   "lines": [
+    "we are enabling employers to see technology through the eyes of their employees literally"
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "65.120", 
+   "id": "f000012", 
+   "language": "eng", 
+   "lines": [
+    "And we're working toward a future where artificial intelligence in humans come together to do the impossible"
+   ]
+  }, 
+  {
+   "begin": "65.120", 
+   "children": [], 
+   "end": "74.800", 
+   "id": "f000013", 
+   "language": "eng", 
+   "lines": [
+    "when innovation meets inspiration we empower the next generation bring diverse perspectives to our clients"
+   ]
+  }, 
+  {
+   "begin": "74.800", 
+   "children": [], 
+   "end": "78.920", 
+   "id": "f000014", 
+   "language": "eng", 
+   "lines": [
+    "and open new opportunities for young people and their communities across the globe"
+   ]
+  }, 
+  {
+   "begin": "78.920", 
+   "children": [], 
+   "end": "82.880", 
+   "id": "f000015", 
+   "language": "eng", 
+   "lines": [
+    "our focus on technology drives us to create change every day"
+   ]
+  }, 
+  {
+   "begin": "82.880", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "f000016", 
+   "language": "eng", 
+   "lines": [
+    "our shared desire to make a genuine human impact inspires us"
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "95.840", 
+   "id": "f000017", 
+   "language": "eng", 
+   "lines": [
+    "Our constant mission is to inspire and delight clients like you today tomorrow and in the years to come"
+   ]
+  }, 
+  {
+   "begin": "95.840", 
+   "children": [], 
+   "end": "98.480", 
+   "id": "f000018", 
+   "language": "eng", 
+   "lines": [
+    "when we innovate with passion and purpose"
+   ]
+  }, 
+  {
+   "begin": "98.480", 
+   "children": [], 
+   "end": "100.520", 
+   "id": "f000019", 
+   "language": "eng", 
+   "lines": [
+    "Deliver with excellence"
+   ]
+  }, 
+  {
+   "begin": "100.520", 
+   "children": [], 
+   "end": "103.960", 
+   "id": "f000020", 
+   "language": "eng", 
+   "lines": [
+    "act with integrity and respect"
+   ]
+  }, 
+  {
+   "begin": "103.960", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "f000021", 
+   "language": "eng", 
+   "lines": [
+    "I believe that everyone counts"
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "f000022", 
+   "language": "eng", 
+   "lines": [
+    "when we bring together technology and human ingenuity"
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "111.480", 
+   "id": "f000023", 
+   "language": "eng", 
+   "lines": [
+    "we change things for the better"
+   ]
+  }, 
+  {
+   "begin": "111.480", 
+   "children": [], 
+   "end": "112.360", 
+   "id": "f000024", 
+   "language": "eng", 
+   "lines": [
+    "for him"
+   ]
+  }, 
+  {
+   "begin": "112.360", 
+   "children": [], 
+   "end": "113.360", 
+   "id": "f000025", 
+   "language": "eng", 
+   "lines": [
+    "for her"
+   ]
+  }, 
+  {
+   "begin": "113.360", 
+   "children": [], 
+   "end": "114.160", 
+   "id": "f000026", 
+   "language": "eng", 
+   "lines": [
+    "for you"
+   ]
+  }, 
+  {
+   "begin": "114.160", 
+   "children": [], 
+   "end": "126.400", 
+   "id": "f000027", 
+   "language": "eng", 
+   "lines": [
+    "That's Avanade that's human impact"
+   ]
+  }
+ ]
+}

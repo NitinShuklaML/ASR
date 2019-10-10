@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+
+
+
+    
+
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    <script type="text/javascript">
+       if (self === top) {
+           var antiClickjack = document.getElementById("antiClickjack");
+           antiClickjack.parentNode.removeChild(antiClickjack);
+       } else {
+           top.location = self.location;
+       }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+	<!-- Metadata -->
+	<title>Brightcove Login</title>
+
+    
+    <script type="text/javascript">
+        var contextPath = "";
+    </script>
+
+	<!-- Scripts & Styling -->
+	<script type="text/javascript" src="/cdn/js/jquery.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/cdn/js/common.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/cdn/js/lib/bc-password-ui-validator/bc.password.validator.js" type="text/javascript"></script>
+    
+
+    
+
+    <link rel="shortcut icon" href="/cdn/images/favicon-16.png" type="image/png" />
+    <link rel="icon" href="/cdn/images/favicon-16.png" type="image/png" />
+
+	<!-- Brightcove Login Scripts & Styling -->
+	<link rel="stylesheet" type="text/css" href="/cdn/css/cloud_login.css?update=11152016"/>
+  <script>
+  var resourceBundle = {
+          "allowCookies": "You must allow cookies to use this site.",
+          "minimumPasswordLength": "Password must be at least 6 characters.",
+          "emailMustNotBeEmpty": "Email must not be empty.",
+          "emailIsNotValid": "Email is not a valid email"
+  };
+  var serverLoginErrors = 
+  [
+    
+  ]
+;
+  </script>
+  <script type="text/javascript" src="/cdn/js/login.js"></script>
+</head>
+<body>
+  <div class="body">
+    <div id="container">
+      <div id="header">
+        <img src="/cdn/images/logo-brightcove.png" />
+        
+      </div>
+
+
+      <div id="main">
+        
+    <div id="get_flash" style="display:none;text-align:center;">
+      <p class="errorMessage">Some Brightcove services require Flash Player.</p>
+      <a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+          <img src="/cdn/images/get_flash_player.gif" alt="Get Adobe Flash player" border="0">
+      </a>
+    </div>
+  
+
+        <div class="form_panel">
+          <div class="formWrapper">
+
+            <h2>Welcome!</h2>
+  <p class='intro'>Please sign into Brightcove with your existing login.</p>
+
+  <form id="loginForm" action="/login" method="POST">
+    <fieldset>
+      <div class="fieldsetFix">
+
+        <div id="loginErrors" class="errors">
+          <ul></ul>
+        </div>
+
+        <label for="email">Email Address</label>
+        <input id="email" name="email" class="text required email" tabindex="1" autofocus="autofocus" type="text" value=""/>
+
+        <label for="password">Password</label>
+        <input id="password" name="password" class="text required" tabindex="2" type="password" value=""/>
+
+        <div id="rememberBox">
+          <input id="saveEmailEnabled" name="saveEmailEnabled" class="checkbox" tabindex="3" type="checkbox" value="true"/><input type="hidden" name="_saveEmailEnabled" value="on"/>
+          <label for="saveEmailEnabled" class="rememberMe">Remember me</label>
+        </div>
+
+        <div id="controls">
+          <button id="signinButton" class="color-brightcove" type="submit">
+            Sign In
+          </button>
+          <div class="utility_links">
+            <a id='forgot_password' href="/forgotPassword?redirect=https%3a%2f%2fstudio.brightcove.com%2fproducts%2fvideocloud%2fmedia%2fvideos%2fsearch%2f5648242084001">Forgot your password?</a>
+            
+              <a href="https://register.brightcove.com/en/video-cloud">Sign up now</a>
+            
+          </div>
+        </div>
+
+        <input id="redirect" name="redirect" type="hidden" value="https://studio.brightcove.com/products/videocloud/media/videos/search/5648242084001"/>
+        <input id="moverride" name="moverride" type="hidden" value="false"/>
+      </div>
+    </fieldset>
+  </form>
+
+  <div id="signInMessages"></div>
+
+          </div>
+          <div id="marketing_frame">
+            <iframe src="https://files.brightcove.com/signin-messaging.html" height="100%" width="100%">
+            </iframe>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="push"></div>
+  </div>
+
+  <div id="footer">
+    <a href="https://help.brightcove.com/en/contact">Contact Support</a>
+    <a href="https://www.brightcove.com/en/company/about">About Brightcove</a>
+    <a href="https://www.brightcove.com/en/terms-and-conditions">Terms &amp; Conditions</a>
+    <a href="https://www.brightcove.com/en/privacy">Privacy</a>
+    <span id="copyright">&copy; 2019 Brightcove Inc.</span>
+  </div>
+
+  
+
+
+
+
+<script type='text/javascript'>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2728311-32']);
+_gaq.push(['_setDomainName', '.brightcove.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</body>
+</html>
+
